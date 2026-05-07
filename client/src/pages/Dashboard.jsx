@@ -9,7 +9,7 @@ const Dashboard = () => {
 
       <Navbar />
 
-      <main className="max-w-7xl mx-auto px-6 py-8 space-y-8">
+      <main className="max-w-6xl mx-auto py-24 px-10 space-y-10">
 
         <UploadBox />
 
